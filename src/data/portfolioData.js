@@ -81,25 +81,18 @@ export const portfolioData = {
 
   experience: [
     {
-      company: "Future Systems Inc.",
-      position: "Lead Software Developer",
-      period: "2025 - Present",
+      company: "Runway Technologies.",
+      position: "Software Developer",
+      period: "2021 - 2022",
       description:
         "Heading the development of next-generation applications that combine innovative technologies with robust software engineering practices.",
     },
     {
-      company: "Tech Innovations",
-      position: "Senior Software Engineer",
-      period: "2022 - 2025",
+      company: "National Informatics Centre",
+      position: "Fullstack Developer",
+      period: "2022 - 2023",
       description:
         "Developed scalable software solutions for enterprise clients, focusing on performance optimization and system architecture.",
-    },
-    {
-      company: "Neural Dynamics",
-      position: "Software Developer",
-      period: "2019 - 2022",
-      description:
-        "Created web-based AR/VR experiences for educational and commercial applications, focusing on frontend development and UX design.",
     },
   ],
 
@@ -123,19 +116,19 @@ export const portfolioData = {
 
   education: [
     {
-      institution: "Tokyo Institute of Technology",
-      degree: "Ph.D. in Computer Science",
+      institution: "SSRKV High School",
+      degree: "High School",
+      period: "Secondary and Higher Secondary",
+    },
+    {
+      institution: "Birbhum Institute of Engineering & Technology",
+      degree: "B.Tech in Computer Science & Engineering",
       period: "2017 - 2021",
     },
     {
-      institution: "Massachusetts Institute of Technology",
-      degree: "MS in Computer Science & Software Engineering",
-      period: "2015 - 2017",
-    },
-    {
-      institution: "Stanford University",
-      degree: "BS in Computer Science",
-      period: "2011 - 2015",
+      institution: "Seacom Skills University",
+      degree: "M.Tech in Computer Science & Engineering",
+      period: "2023 - 2025",
     },
   ],
 };
