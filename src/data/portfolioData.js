@@ -3,11 +3,11 @@ export const portfolioData = {
     name: "Syed Imran",
     title: "Software Engineer",
     bio: "Specialized in creating robust software solutions with a focus on scalability and performance. With expertise in full-stack development, I build applications that solve real-world problems through innovative approaches and clean code.",
-    email: "syed.imran@example.com",
+    email: "syed16imran@gmail.com",
     location: "Suri, India",
     socialLinks: {
-      github: "#",
-      linkedin: "#",
+      github: "https://github.com/ImranDesk",
+      linkedin: "https://www.linkedin.com/in/imrandesk/",
       twitter: "#",
     },
   },
@@ -49,34 +49,35 @@ export const portfolioData = {
   projects: [
     {
       id: 1,
-      title: "NeuroSync",
+      title: "Disease-prediction-system using machine learning",
       description:
-        "A brain-computer interface that translates thoughts into visual elements in real-time, creating an interactive thought visualization platform.",
+        "A system that takes inputs of symptoms from user and predicts the possible desease he might be suffering from using machine learning algorithms.",
       image: "neurosync.jpg",
-      technologies: ["React", "TensorFlow.js", "WebGL", "EEG API"],
-      github: "#",
+      technologies: ["Python", "Scikit-Learn", "Flask", "Scipy"],
+      github: "https://github.com/ImranDesk/Disease-prediction-system",
       liveDemo: "#",
     },
     {
       id: 2,
-      title: "HoloArchitect",
+      title: "Responsive Landing Page",
       description:
-        "An augmented reality tool for architects that projects full-scale building designs into physical space for immersive walkthroughs and annotations.",
-      image: "holoarchitect.jpg",
-      technologies: ["React Native", "ARKit", "Three.js", "Parametric Design"],
-      github: "#",
-      liveDemo: "#",
+        "Responsive static website using HTML, CSS, SCSS JavaScript.",
+      image: "landing.png",
+      technologies: ["HTML, CSS, SCSS, JavaScript"],
+      github: "https://github.com/ImranDesk/landing-page-2",
+      liveDemo: "https://imrandesk.github.io/landing-page-2/",
     },
     {
       id: 4,
-      title: "BioDigital Twin",
+      title: "Education Website",
       description:
-        "A digital replica of biological systems that allows for real-time health monitoring and predictive medical analysis through wearable tech integration.",
+        "A website of a coaching academy created with HTML, SCSS, Bootstrap, PHP and MySql.",
       image: "biodigital.jpg",
-      technologies: ["React", "WebGL", "Machine Learning", "Biometric APIs"],
-      github: "#",
+      technologies: ["HTML", "CSS", "JavaScript", "Bootstrap", "PHP", "MySql"],
+      github: "#https://github.com/ImranDesk/academic-excellence",
       liveDemo: "#",
     },
+    
   ],
 
   experience: [
