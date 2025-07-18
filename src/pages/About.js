@@ -230,7 +230,7 @@ const About = () => {
         </EducationGrid>
       </EducationSection>
 
-      <TestimonialsSection>
+      {/* <TestimonialsSection>
         <SectionHeader>
           <motion.div
             initial={{ opacity: 0, y: 30 }}
@@ -271,7 +271,7 @@ const About = () => {
             </motion.div>
           ))}
         </TestimonialsGrid>
-      </TestimonialsSection>
+      </TestimonialsSection> */}
     </AboutContainer>
   );
 };
